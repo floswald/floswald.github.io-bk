@@ -1,16 +1,16 @@
-- title: "About"
-  href: "/about/"
-
-- title: "Blog"
-  href: "/blog/"
-
 - title: "CV"
   href: "/cv/"
 
-- title: "Miscellany"
-  href: "/miscellany/"
+- title: "Research"
+  href: "/research/"
+
+- title: "Teaching"
+  href: "/teaching/"
   subcategories:
-    - subtitle: "Item 1"
-      subhref: "/miscellany/item-1/"
-    - subtitle: "Item 2"
-      subhref: "/miscellany/item-2/"
+    - subtitle: "Graduate Labor Economics"
+      subhref: "/teaching/grad-labor/"
+    - subtitle: "Computational Economics"
+      subhref: "/teaching/comp-econ/"
+
+- title: "Computing"
+  href: "/computing/"
