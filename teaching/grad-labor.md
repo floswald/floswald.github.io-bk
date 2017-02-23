@@ -8,14 +8,17 @@ This is the website for the graduate labor course at Sciences Po. Please find th
 
 ## Course Materials
 
-* [Syllabus](https://www.dropbox.com/s/x1f0zv7ycmovkzr/grad-labour-syllabus.pdf?dl=0)
-* [Labor Supply](https://www.dropbox.com/s/7kjl0mzxus6519e/labor-supply-static.pdf?dl=0)
-* [Dynamic Programming Intro](/teaching/materials/dp-intro.pdf)
-	* [Notebook](https://www.dropbox.com/s/79nud00bet0x9z2/dp.Rmd?dl=0)
-	* [Rendered Notebook](/teaching/materials/dp.html)
-* [Wage Dispersion](https://www.dropbox.com/s/t98j22wnkzibbp1/dispersion.pdf?dl=0)
+* [Syllabus](/teaching/labor-materials/grad-labour-syllabus.pdf)
+* [Labor Supply](/teaching/labor-materials/labor-supply-static.pdf)
+* [Dynamic Programming Intro and Application in French (2005)](/teaching/labor-materials/dp-intro.pdf)
+	* [Rendered Notebook](/teaching/labor-materials/dp.html)
+* [Wage Dispersion](/teaching/labor-materials/dispersion.pdf)
 
 ## Homeworks
 
-on our Slack channel.
+All homeworks are available [on the dedicated homeworks website](https://floswald.github.io/ScPo-Labor/)
+
+## Questions
+
+Please use our Slack channel.
 
