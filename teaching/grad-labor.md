@@ -13,6 +13,7 @@ This is the website for the graduate labor course at Sciences Po. Please find th
 * [Dynamic Programming Intro and Application in French (2005)](/teaching/labor-materials/dp-intro.pdf)
 	* [Rendered Notebook](/teaching/labor-materials/dp.html)
 * [Wage Dispersion](/teaching/labor-materials/dispersion.pdf)
+* [Measuring Complementarity: AKM and follow-ups](/teaching/labor-materials/AKM.pdf)
 
 ## Homeworks
 
