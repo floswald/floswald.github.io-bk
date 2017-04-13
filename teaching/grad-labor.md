@@ -23,6 +23,14 @@ This is the website for the graduate labor course at Sciences Po. Please find th
 * [Measuring Complementarity: AKM and follow-ups](/teaching/labor-materials/AKM.pdf)
 * [Sorting (in theory)](/teaching/labor-materials/HLM.pdf)
 
+
+**Spatial Labor**  
+
+* [The Monocentric Urban Model](/teaching/labor-materials/von-thuenen.pdf)
+* [The Economics of Density](/teaching/labor-materials/berlin.pdf)
+* [Dynamic Residential Sorting](/teaching/labor-materials/BTTM-sorting.pdf)
+
+
 ## Homeworks
 
 All homeworks are available [on the dedicated homeworks website](https://floswald.github.io/ScPo-Labor/)
