@@ -22,6 +22,7 @@ This is the website for the graduate labor course at Sciences Po. Please find th
 * [Wage Dispersion](/teaching/labor-materials/dispersion.pdf)
 * [Measuring Complementarity: AKM and follow-ups](/teaching/labor-materials/AKM.pdf)
 * [Sorting (in theory)](/teaching/labor-materials/HLM.pdf)
+* [Edoardo: Sorting](/teaching/labor-materials/Edoardo.pdf)
 
 
 **Spatial Labor**  
