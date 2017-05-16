@@ -12,7 +12,7 @@ permalink: /research/
 
 joint with Brad Larsen, Gregor Reich and Dan Wunderli, Economics Letters, 112(2), August 2012, pages 213--216
 
-### [Recourse and the Residential Mortgage Market: The Case of Nevada](https://dl.dropboxusercontent.com/u/109115/website/nevada.pdf), joint with Wenli Li. 
+### [Recourse and the Residential Mortgage Market: The Case of Nevada](https://www.dropbox.com/s/kezqhin1r04vsst/nevada_nov_2016.pdf?dl=0), joint with Wenli Li. 
 
 **Forthcoming at Journal of Urban Economics.**  
 
