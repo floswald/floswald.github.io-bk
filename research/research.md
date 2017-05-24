@@ -49,7 +49,9 @@ We specify and estimate a rich model of consumption, housing demand and labor su
 
 The decision to own is often tied to location choice. We explain why this is the case using a structural lifecycle model of consumption, housing with tenure and location choice in a monocentric urban setting.
 
+### Impact of Airbnb on Traditional Rental Markets with Jean-Benoit Eyemoud and Guillaume Chapelle
 
+### Location and Household Size with Nicolas Coeurdacier and Pierre-Philippe Combes
 
 
 
