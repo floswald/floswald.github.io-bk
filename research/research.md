@@ -8,7 +8,15 @@ permalink: /research/
 
 ## Publications 
 
-* [A test of the extreme value type 1 assumption in the bus engine replacement model]("http://www.sciencedirect.com/science/article/pii/S0165176512000870"), joint with Brad Larsen, Gregor Reich Florian Oswald and Dan Wunderli, Economics Letters, 112(2), August 2012, pages 213--216
+### [A test of the extreme value type 1 assumption in the bus engine replacement model]("http://www.sciencedirect.com/science/article/pii/S0165176512000870")
+
+joint with Brad Larsen, Gregor Reich and Dan Wunderli, Economics Letters, 112(2), August 2012, pages 213--216
+
+### [Recourse and the Residential Mortgage Market: The Case of Nevada](https://www.dropbox.com/s/kezqhin1r04vsst/nevada_nov_2016.pdf?dl=0), joint with Wenli Li. 
+
+**Forthcoming at Journal of Urban Economics.**  
+
+The state of Nevada abolished deficiency judgments for purchase mortgage loans made after October 2009 and collateralized by primary single family homes. In this paper we test the effect of the law change on mortgage supply and demand in addition to mortgage default. Using unique mortgage loan level application and performance data, we find strong evidence that lenders tightened their lending standards in response to the law change. Particularly, lenders reduced approval rates and loan sizes for affected mortgages by about 5 percent. Households, by contrast, did not increase their mortgage applications because of the law change. More importantly, the law change did not appear to have affected mortgage default and house foreclosure outcomes. These results thus cast a cautionary note on the effectiveness of policy recommendations that intend to use deficiency laws to curb mortgage defaults.
 
 ## Working Papers
 
@@ -16,24 +24,6 @@ permalink: /research/
 
 **Submitted.** 
 This paper estimates a lifecycle model of consumption, housing choice and migration in the presence of aggregate and regional shocks, using the Survey of Income and Program Participation (SIPP). Using the model I estimate the value of the migration option and the welfare impact of policies that may restrict mobility. The value of the option to move ranges from 0% up to almost 10% of lifetime consumption depending on the type of household considered. While I obtain an estimate of the elasticity of local population size with respect to a large regional shock which is close to estimates from the previous literature, I am able to show that the respective elasticities of outflows for renters and owners from that region are orders of magnitude apart. This has important implications for the design of housing and labour market policies.
-
-### [Recourse and the Residential Mortgage Market: The Case of Nevada](https://dl.dropboxusercontent.com/u/109115/website/nevada.pdf), joint with Wenli Li
-
-**Revise and Resubmit** at Journal of Urban Economics.
-The state of Nevada abolished deficiency judgments for purchase mortgage
-              loans made after October 2009 and collateralized by primary single family
-              homes. In this paper we test the effect of the law change on mortgage supply
-              and demand in addition to mortgage default. Using unique mortgage loan level
-              application and performance data, we find strong evidence that lenders
-              tightened their lending standards in response to the law change.
-              Particularly, lenders reduced approval rates and loan sizes for affected
-              mortgages by about 5 percent. Households, by contrast, did not increase
-              their mortgage applications because of the law change. More importantly, the
-              law change did not appear to have affected mortgage default and house
-              foreclosure outcomes. These results thus cast a cautionary note on the
-              effectiveness of policy recommendations that intend to use deficiency laws
-              to curb mortgage defaults.
-
 
 ### [Consumer Bankruptcy and Mortgage Default](https://dl.dropboxusercontent.com/u/109115/website/bankruptcy.pdf), joint with Costas Meghir and Wenli Li
 
@@ -52,6 +42,7 @@ The decision to own is often tied to location choice. We explain why this is the
 ### Impact of Airbnb on Traditional Rental Markets with Jean-Benoit Eyemoud and Guillaume Chapelle
 
 ### Location and Household Size with Nicolas Coeurdacier and Pierre-Philippe Combes
+
 
 
 
