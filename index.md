@@ -2,9 +2,11 @@
 layout: default
 ---
 
-# Welcome!
 	
-{% include image.html url="/images/SciencesPO.jpg" width=350 align="right" %}
+{% include image.html url="/images/florian.jpg" width=150 align="right" %}
+
+# Welcome!
+
 <br>
 
 
