@@ -5,8 +5,7 @@ email: florian.oswald@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   SciencesPo, Dept of Economics <br>
   28 Rue des Saints-Pères <br>
-  75007 Paris  <br>
-  France
+  75007 Paris, France
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://floswald.github.io" # the base hostname & protocol for your site
 twitter_username: FlorianOswald
