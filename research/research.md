@@ -18,7 +18,8 @@ permalink: /research/
 
 
 ## Recourse and the Residential Mortgage Market: The Case of Nevada 
-**Forthcoming at Journal of Urban Economics, joint with Wenli Li**. 
+
+**Lead Article in [Journal of Urban Economics, Volume 101, September 2017](http://www.sciencedirect.com/science/article/pii/S0094119017300438)** , joint with Wenli Li. 
 
 The state of Nevada abolished deficiency judgments for purchase mortgage loans made after October 2009 and collateralized by primary single family homes. In this paper we test the effect of the law change on mortgage supply and demand in addition to mortgage default. Using unique mortgage loan level application and performance data, we find strong evidence that lenders tightened their lending standards in response to the law change. Particularly, lenders reduced approval rates and loan sizes for affected mortgages by about 5 percent. Households, by contrast, did not increase their mortgage applications because of the law change. More importantly, the law change did not appear to have affected mortgage default and house foreclosure outcomes. These results thus cast a cautionary note on the effectiveness of policy recommendations that intend to use deficiency laws to curb mortgage defaults.  
 [[Paper]](https://www.dropbox.com/s/kezqhin1r04vsst/nevada_nov_2016.pdf?dl=0)
@@ -33,7 +34,8 @@ The state of Nevada abolished deficiency judgments for purchase mortgage loans m
 
 ## Regional Shocks, Migration and Homeownership
 
-**Submitted.** 
+**Revise and Resubmit at Quantitative Economics**   
+
 This paper estimates a lifecycle model of consumption, housing choice and migration in the presence of aggregate and regional shocks, using the Survey of Income and Program Participation (SIPP). Using the model I estimate the value of the migration option and the welfare impact of policies that may restrict mobility. The value of the option to move ranges from 0% up to almost 10% of lifetime consumption depending on the type of household considered. While I obtain an estimate of the elasticity of local population size with respect to a large regional shock which is close to estimates from the previous literature, I am able to show that the respective elasticities of outflows for renters and owners from that region are orders of magnitude apart. This has important implications for the design of housing and labour market policies.  
 [[Paper]](https://dl.dropboxusercontent.com/u/109115/website/oswald_jmp.pdf) [[Slides]](https://www.dropbox.com/s/3c7pdekqa5x6dp4/slides-BGSE-55min.pdf?dl=0)
 
@@ -57,9 +59,9 @@ This paper estimates a lifecycle model of consumption, housing choice and migrat
 
 The decision to own is often tied to location choice. We explain why this is the case using a structural lifecycle model of consumption, housing with tenure and location choice in a monocentric urban setting.
 
-## Impact of Airbnb on Traditional Rental Markets with Jean-Benoit Eyemoud and Guillaume Chapelle
+## Impact of Airbnb on Traditional Rental Markets with Jean-Benoit Eyemoud, Guillaume Chapelle and Joan Monras.
 
-## Location and Household Size with Nicolas Coeurdacier and Pierre-Philippe Combes
+## Location and Household Size with Nicolas Coeurdacier and Pierre-Philippe Combes.
 
 
 
