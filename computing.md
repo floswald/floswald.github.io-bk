@@ -6,7 +6,7 @@ permalink: /computing/
 
 You can find all of my publicly assessible software on my [github profile](https://github.com/floswald).
 
-I have written software in high-level languages like `Matlab`, `python`, `R` and [`julia`](https://julialang.org). I am an expert `R` and `julia` user, I've good `python` skills, Matlab is somewhat outdated. I am well-versed with `C++` and `fortran`. 
+I have written software in high-level languages like `Matlab`, `python`, `R` and [`julia`](https://julialang.org). I am an expert `R` and `julia` user, I've good `python` skills, Matlab is somewhat outdated. I am well-versed with `C++` and `fortran`. I am using `PostgreSQL + postgis` databases (interfaced from either `R` or `python`) to manage large scale geo-spatial datasets.
 
 I have used the phantastic [`Rcpp`](http://rcpp.org) (R + `C++`) package in several projects. I have been using Julia for computationally intensive projects starting in 2014 for my job market paper, and I have never looked back.
 
