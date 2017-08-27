@@ -5,11 +5,11 @@ permalink: /research/
 ---
 
 
-## **Publications**
-
 ---  
-  
-<br>
+
+  <br>
+
+## **Publications**
 
 ## A test of the extreme value type I assumption in the bus engine replacement model
 
@@ -25,12 +25,10 @@ The state of Nevada abolished deficiency judgments for purchase mortgage loans m
 [`Paper`](https://www.dropbox.com/s/kezqhin1r04vsst/nevada_nov_2016.pdf?dl=0)
 
 
-   
-## **Working Papers**
-
 ---  
-  
-<br>
+  <br>
+
+## **Working Papers**
 
 ## Regional Shocks, Migration and Homeownership
 
@@ -49,11 +47,10 @@ This paper estimates a lifecycle model of consumption, housing choice and migrat
 **Submitted, joint with Lars Nesheim and Jonathan Halket** Using the English Housing Survey, we estimate a supply side selection model of the allocation of properties to the owner-occupied and rental sectors. We find that location, structure and unobserved quality are important for understanding housing prices, rents and selection. Structural characteristics and unobserved quality are important for selection. Location is not. Accounting for selection is important for estimates of rent-to-price ratios and can explain some puzzling correlations between rent-to-price ratios and homeownership rates. We interpret this as strong evidence in favor of contracting frictions in the rental market likely related to housing maintenance.  
 [`Paper`](https://www.dropbox.com/s/ch4zzpyha9cx9rf/SelectionModel_20160323.pdf?dl=0)  [`Slides`](https://www.dropbox.com/s/r6rs3taihxyx5a3/20161206_Lausanne.pdf?dl=0)
 
-## **Work in Progress**
-
 ---  
-  
-<br>
+  <br>
+
+## **Work in Progress**
 
 ## Urban Lifecycles, joint with Lars Nesheim and Jonathan Halket
 
