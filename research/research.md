@@ -40,7 +40,7 @@ This paper estimates a lifecycle model of consumption, housing choice and migrat
 ## Consumer Bankruptcy and Mortgage Default
 
 **joint with Costas Meghir and Wenli Li**. We specify and estimate a rich model of consumption, housing demand and labor supply in an environment where individuals may file for bankruptcy or default on their mortgage. Uncertainty in the model is driven both by house price shocks and income shocks, while bankruptcy is governed by the basic institutional framework in the US as implied by chpater 8 and chapter 13. The model is estimated using micro data on credit reports and mortgages combined with individual level data from the American Community Survey.   
-[`Paper`](https://dl.dropboxusercontent.com/u/109115/website/bankruptcy.pdf)  [`Slides`](https://www.dropbox.com/s/kfmyyp9yx9xmafm/Li-Meghir-Oswald.pdf?dl=0)
+[`Paper`](https://dl.dropboxusercontent.com/u/109115/website/bankruptcy.pdf)  [`Slides`](https://www.dropbox.com/s/kfmyyp9yx9xmafm/Li-Meghir-Oswald.pdf?dl=0)  [`15min Slides`](https://www.dropbox.com/s/sosj0vghcrd3ibs/Li-Meghir-Oswald-15min.pdf?dl=0)
 
 ## The Housing Stock, Housing Prices, and User Costs: The Roles of Location, Structure and Unobserved Quality
 
