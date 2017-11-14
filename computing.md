@@ -22,7 +22,16 @@ I have used the phantastic [`Rcpp`](http://rcpp.org) (R + `C++`) package in seve
 |[`parallelTest`](https://github.com/floswald/parallelTest)  |  Principal Author  |  Repo with tests for parallel computation for a host of hpc systems. |
 
 
-<!-- ## Setup
+
+<!-- 
+### WiFi speed in my office
+
+I have been collecting measurements of wifi speed in my office for a while now. This graph gets updated every day:
+
+
+{% include image.html url="/images/wifi.png" width=500 align="center" %}
+
+## Setup
 
 Real pro's get invited to share their setup at [`usesthis.com`](https://usesthis.com/interviews/hadley.wickham/). Just for the fun of it (maybe remotely useful to a student?), I give you here...
 
