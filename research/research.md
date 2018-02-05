@@ -13,13 +13,13 @@ permalink: /research/
 
 ## A test of the extreme value type I assumption in the bus engine replacement model  <button type="button" class="btn btn-success">Economics Letters</button>
 
-**joint with Brad Larsen, Gregor Reich and Dan Wunderli**, Economics Letters, 112(2), August 2012, pages 213--216. We test whether the type 1 EV value assumption on preference shocks can be rejected in Rust's canonical bus engine replacement model. We find that with his original data, we can't.  
+Economics Letters, 112(2), August 2012, pages 213--216, *joint with Brad Larsen, Gregor Reich and Dan Wunderli*.  We test whether the type 1 EV value assumption on preference shocks can be rejected in Rust's canonical bus engine replacement model. We find that with his original data, we can't.  
 [`Paper`](http://www.sciencedirect.com/science/article/pii/S0165176512000870)
 
 
 ## Recourse and the Residential Mortgage Market: The Case of Nevada    <button type="button" class="btn btn-success">Journal of Urban Economics</button>
 
-**Lead Article in [Journal of Urban Economics, Volume 101, September 2017](http://www.sciencedirect.com/science/article/pii/S0094119017300438)** , joint with Wenli Li. 
+**Lead Article in [Journal of Urban Economics, Volume 101, September 2017](http://www.sciencedirect.com/science/article/pii/S0094119017300438)** , *joint with Wenli Li.* 
 
 The state of Nevada abolished deficiency judgments for purchase mortgage loans made after October 2009 and collateralized by primary single family homes. In this paper we test the effect of the law change on mortgage supply and demand in addition to mortgage default. Using unique mortgage loan level application and performance data, we find strong evidence that lenders tightened their lending standards in response to the law change. Particularly, lenders reduced approval rates and loan sizes for affected mortgages by about 5 percent. Households, by contrast, did not increase their mortgage applications because of the law change. More importantly, the law change did not appear to have affected mortgage default and house foreclosure outcomes. These results thus cast a cautionary note on the effectiveness of policy recommendations that intend to use deficiency laws to curb mortgage defaults.  
 [`Paper`](https://www.dropbox.com/s/kezqhin1r04vsst/nevada_nov_2016.pdf?dl=0)
@@ -38,14 +38,12 @@ This paper estimates a lifecycle model of consumption, housing choice and migrat
 
 ## The Housing Stock, Housing Prices, and User Costs: The Roles of Location, Structure and Unobserved Quality  <button type="button" class="btn btn-info">R&R International Economic Review</button>
 
-**Revise and Resubmit at Quantitative Economics**   
-
 *joint with Lars Nesheim and Jonathan Halket.* Using the English Housing Survey, we estimate a supply side selection model of the allocation of properties to the owner-occupied and rental sectors. We find that location, structure and unobserved quality are important for understanding housing prices, rents and selection. Structural characteristics and unobserved quality are important for selection. Location is not. Accounting for selection is important for estimates of rent-to-price ratios and can explain some puzzling correlations between rent-to-price ratios and homeownership rates. We interpret this as strong evidence in favor of contracting frictions in the rental market likely related to housing maintenance.  
 [`Paper`](https://www.dropbox.com/s/ch4zzpyha9cx9rf/SelectionModel_20160323.pdf?dl=0)  [`Slides`](https://www.dropbox.com/s/r6rs3taihxyx5a3/20161206_Lausanne.pdf?dl=0)
 
 ## Consumer Bankruptcy and Mortgage Default
 
-**joint with Costas Meghir and Wenli Li**. We specify and estimate a rich model of consumption, housing demand and labor supply in an environment where individuals may file for bankruptcy or default on their mortgage. Uncertainty in the model is driven both by house price shocks and income shocks, while bankruptcy is governed by the basic institutional framework in the US as implied by chpater 8 and chapter 13. The model is estimated using micro data on credit reports and mortgages combined with individual level data from the American Community Survey.   
+*joint with Costas Meghir and Wenli Li*. We specify and estimate a rich model of consumption, housing demand and labor supply in an environment where individuals may file for bankruptcy or default on their mortgage. Uncertainty in the model is driven both by house price shocks and income shocks, while bankruptcy is governed by the basic institutional framework in the US as implied by chpater 8 and chapter 13. The model is estimated using micro data on credit reports and mortgages combined with individual level data from the American Community Survey.   
 [`Paper`](https://www.dropbox.com/s/gxjevgrbsebzr53/bankrupty-for-website.pdf?dl=0)  [`Slides`](https://www.dropbox.com/s/wpblw978zharsp5/Li-Meghir-Oswald-CEMFI.pdf?dl=0)  [`15min Slides`](https://www.dropbox.com/s/sosj0vghcrd3ibs/Li-Meghir-Oswald-15min.pdf?dl=0)
 
 ---  
