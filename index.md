@@ -15,6 +15,7 @@ Welcome to my website! I am an Assistant professor at the Department of Economic
 
 ## NEWS
 
+* [*The Housing Stock, Housing Prices, and User Costs*](research) R&R at IER
 * [*Recourse and the Residential Mortgage Market*](research) published in Journal of Urban Economics
 * [*Regional Shocks, Migration and Homeownership*](research) R&R at QE
 
