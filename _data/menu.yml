@@ -6,11 +6,6 @@
 
 - title: "Teaching"
   href: "/teaching/"
-  subcategories:
-    - subtitle: "Graduate Labor Economics"
-      subhref: "https://floswald.github.io/ScPo-Labor/"
-    - subtitle: "Computational Economics"
-      subhref: "/teaching/comp-econ/"
 
 - title: "Computing"
   href: "/computing/"
