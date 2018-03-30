@@ -10,6 +10,7 @@ This is the website for the *computational economics* course at Sciences Po. The
 ## Course Materials
 
 * [Syllabus](https://github.com/ScPo-CompEcon/Syllabus)
+* [Slides](https://scpo-compecon.github.io/CoursePack/)
 * [ScPo-CompEcon Organisation](https://github.com/ScPo-CompEcon)
 
 
