@@ -22,8 +22,7 @@ I have used the phantastic [Rcpp](http://rcpp.org) (R + C++) package in several 
 |[`EconData`](https://github.com/floswald/EconData)  |  Author  |  R package with datasets for economic research that I assembled over time and couldn't find in a more suitable format. |
 |[`Wealth-o-Meter`](https://github.com/floswald/wealthometer)  |  Maintainer  | Online Wealth Calculator and Policy Simulator |
 |[`parallelTest`](https://github.com/floswald/parallelTest)  |  Principal Author  |  Repo with tests for parallel computation for a host of hpc systems. |
-
-
+{:.table-striped}
 
 
 <!-- 
