@@ -30,9 +30,9 @@ The state of Nevada abolished deficiency judgments for purchase mortgage loans m
 
 ## **Working Papers**
 
-## Regional Shocks, Migration and Homeownership <button type="button" class="btn btn-info">R&R Quantitative Economics</button>
+## The Effect of Homeownership on the Option Value of Regional Migration  <button type="button" class="btn btn-info">(2nd) R&R Quantitative Economics</button>
 
-This paper estimates a lifecycle model of consumption, housing choice and migration in the presence of aggregate and regional shocks, using the Survey of Income and Program Participation (SIPP). Using the model I estimate the value of the migration option and the welfare impact of policies that may restrict mobility. The value of the option to move ranges from 0% up to almost 10% of lifetime consumption depending on the type of household considered. While I obtain an estimate of the elasticity of local population size with respect to a large regional shock which is close to estimates from the previous literature, I am able to show that the respective elasticities of outflows for renters and owners from that region are orders of magnitude apart. This has important implications for the design of housing and labour market policies.  
+This paper estimates a lifecycle model of consumption, housing choice and migration in the presence of aggregate and regional shocks, using the Survey of Income and Program Participation (SIPP). Using the model I estimate the value of the migration option and the welfare impact of policies that may restrict mobility. The value of the option to move ranges from 0% up to almost 10% of lifetime consumption depending on the type of household considered. While I obtain an estimate of the elasticity of local population size with respect to a large regional shock which is close to estimates from the previous literature, I am able to show that the respective elasticities of outflows for renters and owners from that region are orders of magnitude apart. This has important implications for the design of housing and labour market policies. (This paper previously circulated as *Regional Shocks, Migration and Homeownership*)
 [`Paper`](https://www.dropbox.com/s/f4s24ggypkckmvo/oswald_jmp.pdf?dl=0) [`Slides`](https://www.dropbox.com/s/3c7pdekqa5x6dp4/slides-BGSE-55min.pdf?dl=0)
 
 
@@ -58,7 +58,7 @@ The decision to own is often tied to location choice. We explain why this is the
 
 ## Impact of Airbnb on Traditional Rental Markets with Jean-Benoit Eyemoud, Guillaume Chapelle and Joan Monras.
 
-## Location and Household Size with Nicolas Coeurdacier and Pierre-Philippe Combes.
+## Location and Household Size with Nicolas Coeurdacier, Laurent Gobillon and Pierre-Philippe Combes.
 
 
 
