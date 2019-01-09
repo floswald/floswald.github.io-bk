@@ -9,7 +9,7 @@
 baseurl = "https://floswald.github.io/"
 
 # Title of your site
-title = "Florian Oswald's Website"
+title = "Florian Oswald (ScPo)"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -94,7 +94,7 @@ enableGitInfo = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 1
+  map = 0
   map_api_key = ""
   latitude = " 48.8556294"
   longitude = "2.3309525"
@@ -304,7 +304,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Working Papers"
-  url = "#publications_sub"
+  url = "#publications_selected"
   weight = 3
 
 [[menu.main]]
@@ -312,10 +312,10 @@ enableGitInfo = false
   url = "#teaching"
   weight = 4
 
-# [[menu.main]]
-#   name = "Computing"
-#   url = "/computing/"
-#   weight = 5
+[[menu.main]]
+  name = "Computing"
+  url = "computing"
+  weight = 5
 
 [[menu.main]]
   name = "Contact"
