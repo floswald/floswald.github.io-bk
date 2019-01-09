@@ -6,7 +6,7 @@ active = true
 date = 2016-04-20T00:00:00
 
 title = "Working Papers"
-subtitle = "Submitted"
+subtitle = "Submitted Or Not."
 
 # Order that this section will appear in.
 weight = 2
@@ -31,7 +31,7 @@ list_format = 4
 #  4: Technical report
 #  5: Book
 #  6: Book chapter
-publication_type = "-1"
+publication_type = "3"
 
 # Exclude publications that are shown in the Selected Publications widget?
 exclude_selected = false

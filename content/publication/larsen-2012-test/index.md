@@ -9,6 +9,6 @@ abstract_short = "This note finds that we cannot reject a null hypothesis of EV 
 selected = false
 publication = "*Economics Letters*"
 url_pdf = "pdf/rust.pdf"
-url_custom = [{name = "Journal", url = "https://www.sciencedirect.com/science/article/pii/S0165176512000870"}]
+url_custom = [{name = "Economics Letters", url = "https://www.sciencedirect.com/science/article/pii/S0165176512000870"}]
 +++
 

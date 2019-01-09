@@ -10,6 +10,6 @@ selected = false
 publication = "*Journal of Urban Economics*"
 url_preprint = ""
 url_pdf = "pdf/nevada.pdf"
-url_custom = [{name = "Journal", url = "http://www.sciencedirect.com/science/article/pii/S0094119017300438"}]
+url_custom = [{name = "Journal of Urban Economics", url = "http://www.sciencedirect.com/science/article/pii/S0094119017300438"}]
 +++
 

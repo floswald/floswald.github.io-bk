@@ -16,7 +16,7 @@ authors = ["Florian Oswald"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["0"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
 publication = "2nd R&R at Quantitative Economics"
@@ -51,7 +51,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Slides", url = "https://www.dropbox.com/s/3c7pdekqa5x6dp4/slides-BGSE-55min.pdf?dl=0"}]
+url_custom = [{name = "2nd R&R Quantitative Economics", url = "http://qeconomics.org/ojs/index.php/qe"}]
 
 # Does the content use math formatting?
 math = false
@@ -62,9 +62,7 @@ highlight = false
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption 😄"
+image = "option-homeownership.pdf"
+caption = "Mobility 🌍 and Homeowernship 🏡"
 
 +++
-
-Further details on your publication can be written here using *Markdown* for formatting. This text will be displayed on the Publication Detail page.
