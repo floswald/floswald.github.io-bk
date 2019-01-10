@@ -34,7 +34,7 @@ weight = 7
   description = "100%"
 
 [[feature]]
-  icon = "laptop-code"
+  icon = "laptop"
   icon_pack = "fab"
   name = "C++"
   description = "80%"  

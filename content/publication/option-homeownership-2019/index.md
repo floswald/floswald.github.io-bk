@@ -51,7 +51,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Quantitative Economics", url = "http://qeconomics.org/ojs/index.php/qe"}]
+url_custom = [{name = "2nd R&R Quantitative Economics", url = "http://qeconomics.org/ojs/index.php/qe"}]
 
 # Does the content use math formatting?
 math = false
