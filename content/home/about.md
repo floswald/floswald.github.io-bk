@@ -10,9 +10,9 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Dynamic Models",
+    "Computational Methods",
+    "Reproducible Research"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -23,8 +23,8 @@ weight = 1
 
 +++
 
-# Hello!
+# Bonjour!
 
-I am an Assistant Professor of Economics at SciencesPo in Paris. I'm interested in Housing, Urban, Macro and Labor, as well as computational techniques required for structural estimation of microeconometric models. 
+I am an Assistant Professor of Economics at SciencesPo in Paris. My work is in the fields of Housing, Urban, Macro and Labor Economics. I also like to think about computational techniques required for structural estimation of microeconometric models. 
 
 
