@@ -29,32 +29,38 @@ weight = 7
 
 [[feature]]
   icon = "laptop-code"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "julia"
   description = "100%"
 
 [[feature]]
-  icon = "laptop"
-  icon_pack = "fab"
+  icon = "file-code"
+  icon_pack = "fas"
   name = "C++"
   description = "80%"  
 
 [[feature]]
-  icon = "hammer"
-  icon_pack = "fab"
+  icon = "wrench"
+  icon_pack = "fas"
   name = "fortran"
-  description = "60%"
+  description = "70%"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
+  name = "Econometrics"
   description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "80%"
+
+[[feature]]
+  icon = "database"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "PostgreSQL"
+  description = "50%"
 
 +++
