@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>computing on Florian Oswald</title>
+    <link>https://floswald.github.io/tags/computing/</link>
+    <description>Recent content in computing on Florian Oswald</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 09 Jan 2019 12:58:45 +0100</lastBuildDate>
+    
+	<atom:link href="https://floswald.github.io/tags/computing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Computing</title>
+      <link>https://floswald.github.io/computing/</link>
+      <pubDate>Wed, 09 Jan 2019 12:58:45 +0100</pubDate>
+      
+      <guid>https://floswald.github.io/computing/</guid>
+      <description>You can find all of my publicly assessible software on my github profile.
+I have written software in high-level languages like Matlab, python, R and julia. I am an expert R and julia user, I&amp;rsquo;ve good python skills, Matlab is somewhat outdated. I am well-versed with C++ and fortran. I am using PostgreSQL + postgis databases (interfaced from either R or python) to manage large scale geo-spatial datasets.
+I have used the phantastic Rcpp (R + C++) package in several projects.</description>
+    </item>
+    
+  </channel>
+</rss>

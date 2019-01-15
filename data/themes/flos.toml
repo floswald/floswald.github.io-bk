@@ -1,0 +1,20 @@
+# Theme metadata
+name = "flos"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#ff3e28"
+primary_light = "#768fff"
+primary_dark = "#0039cb"
+
+# Menu
+menu_primary = "#fff"
+menu_text = "#4f2b2b"
+menu_text_active = "#ff2828"
+menu_title = "#2b2b2b"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
