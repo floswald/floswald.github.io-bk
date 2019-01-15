@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Florian Oswald</title>
+    <link>https://floswald.github.io/tags/</link>
+    <description>Recent content in Tags on Florian Oswald</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    
+	<atom:link href="https://floswald.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>computing</title>
+      <link>https://floswald.github.io/tags/computing/</link>
+      <pubDate>Wed, 09 Jan 2019 12:58:45 +0100</pubDate>
+      
+      <guid>https://floswald.github.io/tags/computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>discussion</title>
+      <link>https://floswald.github.io/tags/discussion/</link>
+      <pubDate>Mon, 07 Jan 2019 17:06:29 +0100</pubDate>
+      
+      <guid>https://floswald.github.io/tags/discussion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>econ</title>
+      <link>https://floswald.github.io/tags/econ/</link>
+      <pubDate>Tue, 15 Jan 2019 10:57:27 +0100</pubDate>
+      
+      <guid>https://floswald.github.io/tags/econ/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>research</title>
+      <link>https://floswald.github.io/tags/research/</link>
+      <pubDate>Tue, 15 Jan 2019 10:57:27 +0100</pubDate>
+      
+      <guid>https://floswald.github.io/tags/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>talks</title>
+      <link>https://floswald.github.io/tags/talks/</link>
+      <pubDate>Tue, 20 Nov 2018 17:00:00 +0100</pubDate>
+      
+      <guid>https://floswald.github.io/tags/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>teaching</title>
+      <link>https://floswald.github.io/tags/teaching/</link>
+      <pubDate>Sat, 12 Jan 2019 11:48:47 +0100</pubDate>
+      
+      <guid>https://floswald.github.io/tags/teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wip</title>
+      <link>https://floswald.github.io/tags/wip/</link>
+      <pubDate>Tue, 15 Jan 2019 10:57:27 +0100</pubDate>
+      
+      <guid>https://floswald.github.io/tags/wip/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
