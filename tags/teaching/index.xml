@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>teaching on Florian Oswald</title>
+    <link>https://floswald.github.io/tags/teaching/</link>
+    <description>Recent content in teaching on Florian Oswald</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Sat, 12 Jan 2019 11:48:47 +0100</lastBuildDate>
+    
+	<atom:link href="https://floswald.github.io/tags/teaching/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CompEcon</title>
+      <link>https://floswald.github.io/teaching/compecon/</link>
+      <pubDate>Sat, 12 Jan 2019 11:48:47 +0100</pubDate>
+      
+      <guid>https://floswald.github.io/teaching/compecon/</guid>
+      <description>This is a graduate level course in Computational Economics. We cover a series of widely used computational techniques both in theory and in practice. The course relies on the julia language for technical computing, and we use online material from quantecon extensively. Additional to this excellent material, the main value added from the course are the homeworks, which come with fully worked solutions.
+Materials  The course syllabus is available on github.</description>
+    </item>
+    
+    <item>
+      <title>Econometrics</title>
+      <link>https://floswald.github.io/teaching/scpoeconometrics/</link>
+      <pubDate>Wed, 09 Jan 2019 14:42:18 +0100</pubDate>
+      
+      <guid>https://floswald.github.io/teaching/scpoeconometrics/</guid>
+      <description>This course aims to teach the basics of data analysis needed in a Social Sciences oriented University like SciencesPo. We purposefully start at a level that assumes no prior knowledge about statistics whatsoever. Our objective is to have our 2nd year undergraduates understand and be able to interpret linear regression analysis. We will not rely on maths and statistics, but practical learning in order to teach the main concepts.</description>
+    </item>
+    
+    <item>
+      <title>GradLabor</title>
+      <link>https://floswald.github.io/teaching/gradlabor/</link>
+      <pubDate>Fri, 12 Jan 2018 12:06:37 +0100</pubDate>
+      
+      <guid>https://floswald.github.io/teaching/gradlabor/</guid>
+      <description> This is a graduate level course in Labor Economics. The focus of the course are recent contributions concerning Earnings, Employment and Consumption. An important component of the course are practical exercises (labs), and homeworks, that talk directly to the papers we discuss.
+Material  Syllabus The course website is available here.  </description>
+    </item>
+    
+  </channel>
+</rss>
